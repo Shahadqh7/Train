@@ -1,0 +1,1759 @@
+{
+    "bDVoL8kPKOltHPyJ":{
+    "عرب-101":{
+        "course_code": {
+            "ar": "عرب-101",
+            "en": ""
+        },
+        "course_name": {
+            "ar": "المهارات اللغوية",
+            "en": ""
+        },
+        "class_hours": "2",
+        "gender": {
+            "ar": "أنثى",
+            "en": "Female"
+        },
+        "status": {
+            "ar": "مغلقة",
+            "en": "Closed"
+        },
+        "final_exam": {
+            "day": "Tuesday",
+            "start_time": "10:30",
+            "end_time": "12:30",
+            "date": "1445-11-13"
+        },
+        "sections": {
+            "2135": {
+            "instructor_name": {
+                "ar": "عبير محفوظ على الطلحى",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Sunday",
+                "start_time": "13:00",
+                "end_time": "13:50",
+                "classroom": "1102 01 1 A 043"
+                },
+                {
+                "day": "Sunday",
+                "start_time": "14:00",
+                "end_time": "14:50",
+                "classroom": "1102 01 1 A 043"
+                }
+            ]
+            },
+            "7944": {
+            "instructor_name": {
+                "ar": "عبير عبدالرحمن ابرهيم المهيدب",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Sunday",
+                "start_time": "08:00",
+                "end_time": "08:50",
+                "classroom": "1102 01 G A 045"
+                },
+                {
+                "day": "Sunday",
+                "start_time": "09:00",
+                "end_time": "09:50",
+                "classroom": "1102 01 G A 045"
+                }
+            ]
+            },
+            "26866": {
+            "instructor_name": {
+                "ar": "فاطمة محمد عبدالرحيم العتيبي",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Thursday",
+                "start_time": "08:00",
+                "end_time": "08:50",
+                "classroom": "1117 11 G A 002"
+                },
+                {
+                "day": "Thursday",
+                "start_time": "09:00",
+                "end_time": "09:50",
+                "classroom": "1117 11 G A 002"
+                }
+            ]
+            },
+            "33663": {
+            "instructor_name": {
+                "ar": "عبير عبدالرحمن ابرهيم المهيدب",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Monday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1101 03 1 A 045"
+                },
+                {
+                "day": "Monday",
+                "start_time": "11:00",
+                "end_time": "11:50",
+                "classroom": "1101 03 1 A 045"
+                }
+            ]
+            },
+            "36977": {
+            "instructor_name": {
+                "ar": "نوف عايض شالى المطيرى",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Tuesday",
+                "start_time": "08:00",
+                "end_time": "08:50",
+                "classroom": "1102 01 G A 045"
+                },
+                {
+                "day": "Tuesday",
+                "start_time": "09:00",
+                "end_time": "09:50",
+                "classroom": "1102 01 G A 045"
+                }
+            ]
+            },
+            "37322": {
+            "instructor_name": {
+                "ar": "ندى بنت سعود بن عبدالعزيز الدايل",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Sunday",
+                "start_time": "13:00",
+                "end_time": "13:50",
+                "classroom": "1101 03 1 A 024"
+                },
+                {
+                "day": "Sunday",
+                "start_time": "14:00",
+                "end_time": "14:50",
+                "classroom": "1101 03 1 A 024"
+                }
+            ]
+            },
+            "38091": {
+            "instructor_name": {
+                "ar": "عبير عبدالرحمن ابرهيم المهيدب",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Monday",
+                "start_time": "13:00",
+                "end_time": "13:50",
+                "classroom": "1101 03 1 A 047"
+                },
+                {
+                "day": "Monday",
+                "start_time": "14:00",
+                "end_time": "14:50",
+                "classroom": "1101 03 1 A 047"
+                }
+            ]
+            },
+            "39429": {
+            "instructor_name": {
+                "ar": "نوف عايض شالى المطيرى",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Sunday",
+                "start_time": "08:00",
+                "end_time": "08:50",
+                "classroom": ""
+                },
+                {
+                "day": "Sunday",
+                "start_time": "09:00",
+                "end_time": "09:50",
+                "classroom": ""
+                }
+            ]
+            },
+            "39430": {
+            "instructor_name": {
+                "ar": "فاطمة محمد عبدالرحيم العتيبي",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Tuesday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1102 01 G A 045"
+                },
+                {
+                "day": "Tuesday",
+                "start_time": "11:00",
+                "end_time": "11:50",
+                "classroom": "1102 01 G A 045"
+                }
+            ]
+            },
+            "40027": {
+            "instructor_name": {
+                "ar": "مضاوي عبدالله سعود العتيبي",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Monday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1102 01 1 A 029"
+                },
+                {
+                "day": "Monday",
+                "start_time": "11:00",
+                "end_time": "11:50",
+                "classroom": "1102 01 1 A 029"
+                }
+            ]
+            },
+            "40915": {
+            "instructor_name": {
+                "ar": "مضاوي عبدالله سعود العتيبي",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Sunday",
+                "start_time": "13:00",
+                "end_time": "13:50",
+                "classroom": "1102 01 1 A 029"
+                },
+                {
+                "day": "Sunday",
+                "start_time": "14:00",
+                "end_time": "14:50",
+                "classroom": "1102 01 1 A 029"
+                }
+            ]
+            },
+            "41596": {
+            "instructor_name": {
+                "ar": "فاطمة محمد عبدالرحيم العتيبي",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Wednesday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1102 01 G A 045"
+                },
+                {
+                "day": "Wednesday",
+                "start_time": "11:00",
+                "end_time": "11:50",
+                "classroom": "1102 01 G A 045"
+                }
+            ]
+            },
+            "41643": {
+            "instructor_name": {
+                "ar": "عفراء عثمان صالح الحسون",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Wednesday",
+                "start_time": "13:00",
+                "end_time": "13:50",
+                "classroom": "1102 01 1 A 033"
+                },
+                {
+                "day": "Wednesday",
+                "start_time": "14:00",
+                "end_time": "14:50",
+                "classroom": "1102 01 1 A 033"
+                }
+            ]
+            },
+            "74027": {
+            "instructor_name": {
+                "ar": "عبير عبدالرحمن ابرهيم المهيدب",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Wednesday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1101 03 1 A 017"
+                },
+                {
+                "day": "Wednesday",
+                "start_time": "11:00",
+                "end_time": "11:50",
+                "classroom": "1101 03 1 A 017"
+                }
+            ]
+            },
+            "74590": {
+            "instructor_name": {
+                "ar": "عبير عبدالرحمن ابرهيم المهيدب",
+                "en": ""
+            },
+            "section_type": {
+                "ar": "محاضرة",
+                "en": ""
+            },
+            "meetings": [
+                {
+                "day": "Wednesday",
+                "start_time": "13:00",
+                "end_time": "13:50",
+                "classroom": "1120 04 2 A 037"
+                },
+                {
+                "day": "Wednesday",
+                "start_time": "14:00",
+                "end_time": "14:50",
+                "classroom": "1120 04 2 A 037"
+                }
+            ]
+            }
+        }
+    },
+    "قصد-201": {
+        "course_code": {
+          "ar": "قصد-201",
+          "en": ""
+        },
+        "course_name": {
+          "ar": "تحليل اقتصادي جزئي",
+          "en": ""
+        },
+        "class_hours": "3",
+        "gender": {
+          "ar": "أنثى",
+          "en": "Female"
+        },
+        "status": {
+          "ar": "مغلقة",
+          "en": "Closed"
+        },
+        "final_exam": {
+          "day": "Tuesday",
+          "start_time": "10:30",
+          "end_time": "12:30",
+          "date": "1445-11-20"
+        },
+        "sections": {
+          "11419": {
+            "instructor_name": {
+              "ar": "أبرار سعيد عمر باقلب",
+              "en": ""
+            },
+            "section_type": {
+              "ar": "محاضرة",
+              "en": ""
+            },
+            "meetings": [
+              {
+                "day": "Sunday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1101 03 1 A 035"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1101 03 1 A 035"
+              },
+              {
+                "day": "Thursday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1101 03 1 A 035"
+              }
+            ]
+          }
+        }
+    },
+    "حسب-415": {
+        "course_code": {
+          "ar": "حسب-415",
+          "en": ""
+        },
+        "course_name": {
+          "ar": "تحليل التقارير الماليـة",
+          "en": ""
+        },
+        "class_hours": "3",
+        "gender": {
+          "ar": "أنثى",
+          "en": "Female"
+        },
+        "status": {
+          "ar": "مغلقة",
+          "en": "Closed"
+        },
+        "final_exam": {
+          "day": "No final details",
+          "start_time": "No final details",
+          "end_time": "No final details",
+          "date": "No final details"
+        },
+        "sections": {
+          "67443": {
+            "instructor_name": {
+              "ar": "لمياء عبدالرحمن محمد البنيان",
+              "en": ""
+            },
+            "section_type": {
+              "ar": "محاضرة",
+              "en": ""
+            },
+            "meetings": [
+              {
+                "day": "Sunday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1101 03 1 A 004"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1101 03 1 A 004"
+              },
+              {
+                "day": "Thursday",
+                "start_time": "10:00",
+                "end_time": "10:50",
+                "classroom": "1101 03 1 A 004"
+              }
+            ]
+          },
+          "67444": {
+            "instructor_name": {
+              "ar": "لم يحدد من قبل الكلية",
+              "en": "No instructor details"
+            },
+            "section_type": {
+              "ar": "تمارين",
+              "en": ""
+            },
+            "meetings": [
+              {
+                "days": "No meeting details",
+                "start_time": "No meeting details",
+                "end_time": "No meeting details",
+                "classroom": "No meeting details"
+              }
+            ]
+          }
+        }
+    }
+    },
+    "pnuFfeqcfeitvgee":{
+        "قصد-101": {
+            "course_code": {
+              "ar": "قصد-101",
+              "en": ""
+            },
+            "course_name": {
+              "ar": "مباديء الاقتصاد الجزئي",
+              "en": ""
+            },
+            "class_hours": "3",
+            "gender": {
+              "ar": "أنثى",
+              "en": "Female"
+            },
+            "status": {
+              "ar": "مغلقة",
+              "en": "Closed"
+            },
+            "final_exam": {
+              "day": "Sunday",
+              "start_time": "10:30",
+              "end_time": "12:30",
+              "date": "1445-11-25"
+            },
+            "sections": {
+              "74173": {
+                "instructor_name": {
+                  "ar": "بدور راشد سليمان الحميد",
+                  "en": ""
+                },
+                "section_type": {
+                  "ar": "محاضرة",
+                  "en": ""
+                },
+                "meetings": [
+                  {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "09:50",
+                    "classroom": "1101 03 1 A 016"
+                  },
+                  {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "10:50",
+                    "classroom": "1101 03 1 A 016"
+                  },
+                  {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "11:50",
+                    "classroom": "1101 03 1 A 016"
+                  }
+                ]
+              },
+              "76252": {
+                "instructor_name": {
+                  "ar": "لم يحدد من قبل الكلية",
+                  "en": "No instructor details"
+                },
+                "section_type": {
+                  "ar": "محاضرة",
+                  "en": ""
+                },
+                "meetings": [
+                  {
+                    "day": "Monday",
+                    "start_time": "09:00",
+                    "end_time": "09:50",
+                    "classroom": "1101 03 1 A 028"
+                  },
+                  {
+                    "day": "Monday",
+                    "start_time": "10:00",
+                    "end_time": "10:50",
+                    "classroom": "1101 03 1 A 028"
+                  },
+                  {
+                    "day": "Monday",
+                    "start_time": "11:00",
+                    "end_time": "11:50",
+                    "classroom": "1101 03 1 A 028"
+                  }
+                ]
+              },
+              "76253": {
+                "instructor_name": {
+                  "ar": "لم يحدد من قبل الكلية",
+                  "en": "No instructor details"
+                },
+                "section_type": {
+                  "ar": "محاضرة",
+                  "en": ""
+                },
+                "meetings": [
+                  {
+                    "day": "Wednesday",
+                    "start_time": "09:00",
+                    "end_time": "09:50",
+                    "classroom": "1101 03 1 A 028"
+                  },
+                  {
+                    "day": "Wednesday",
+                    "start_time": "10:00",
+                    "end_time": "10:50",
+                    "classroom": "1101 03 1 A 028"
+                  },
+                  {
+                    "day": "Wednesday",
+                    "start_time": "11:00",
+                    "end_time": "11:50",
+                    "classroom": "1101 03 1 A 028"
+                  }
+                ]
+              }
+            }
+        },
+        "ادا-101": {
+            "course_code": {
+              "ar": "ادا-101",
+              "en": ""
+            },
+            "course_name": {
+              "ar": "مباديء الإدارة والأعمال",
+              "en": ""
+            },
+            "class_hours": "3",
+            "gender": {
+              "ar": "أنثى",
+              "en": "Female"
+            },
+            "status": {
+              "ar": "مغلقة",
+              "en": "Closed"
+            },
+            "final_exam": {
+              "day": "Wednesday",
+              "start_time": "10:30",
+              "end_time": "12:30",
+              "date": "1445-11-21"
+            },
+            "sections": {
+              "74599": {
+                "instructor_name": {
+                  "ar": "ساره ابراهيم حمد ال الشيخ",
+                  "en": ""
+                },
+                "section_type": {
+                  "ar": "محاضرة",
+                  "en": ""
+                },
+                "meetings": [
+                  {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "08:50",
+                    "classroom": ""
+                  },
+                  {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "08:50",
+                    "classroom": ""
+                  },
+                  {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "08:50",
+                    "classroom": ""
+                  }
+                ]
+              }
+            }
+        }
+    },
+    "tAPVIuzvAgWQUvLi":{
+        "نجل-222": {
+            "course_code": {
+              "ar": "نجل-222",
+              "en": ""
+            },
+            "course_name": {
+              "ar": "مقدمة في اللسانيات التطبيقية",
+              "en": ""
+            },
+            "class_hours": "3",
+            "gender": {
+              "ar": "أنثى",
+              "en": "Female"
+            },
+            "status": {
+              "ar": "مفتوحة",
+              "en": "Open"
+            },
+            "final_exam": {
+              "day": "Monday",
+              "start_time": "08:00",
+              "end_time": "10:00",
+              "date": "1445-11-26"
+            },
+            "sections": {
+              "71180": {
+                "instructor_name": {
+                  "ar": "لولوه ابراهيم فهد العميم",
+                  "en": ""
+                },
+                "section_type": {
+                  "ar": "محاضرة",
+                  "en": ""
+                },
+                "meetings": [
+                  {
+                    "day": "Sunday",
+                    "start_time": "14:00",
+                    "end_time": "14:50",
+                    "classroom": "1120 04 2 A 001"
+                  },
+                  {
+                    "day": "Thursday",
+                    "start_time": "14:00",
+                    "end_time": "14:50",
+                    "classroom": "1120 04 2 A 001"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "start_time": "14:00",
+                    "end_time": "14:50",
+                    "classroom": "1120 04 2 A 002"
+                  }
+                ]
+              },
+              "71181": {
+                "instructor_name": {
+                  "ar": "لولوه ابراهيم فهد العميم",
+                  "en": ""
+                },
+                "section_type": {
+                  "ar": "محاضرة",
+                  "en": ""
+                },
+                "meetings": [
+                  {
+                    "day": "Sunday",
+                    "start_time": "13:00",
+                    "end_time": "13:50",
+                    "classroom": "1120 04 1 A 009"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "start_time": "13:00",
+                    "end_time": "13:50",
+                    "classroom": "1120 04 1 A 011"
+                  },
+                  {
+                    "day": "Thursday",
+                    "start_time": "13:00",
+                    "end_time": "13:50",
+                    "classroom": "1120 04 1 A 011"
+                  }
+                ]
+              }
+            }
+        },
+        "نجل-307": {
+            "course_code": {
+              "ar": "نجل-307",
+              "en": ""
+            },
+            "course_name": {
+              "ar": "اللغة والمجتمع",
+              "en": ""
+            },
+            "class_hours": "3",
+            "gender": {
+              "ar": "أنثى",
+              "en": "Female"
+            },
+            "status": {
+              "ar": "مفتوحة",
+              "en": "Open"
+            },
+            "final_exam": {
+              "day": "Monday",
+              "start_time": "08:00",
+              "end_time": "10:00",
+              "date": "1445-11-26"
+            },
+            "sections": {
+              "71224": {
+                "instructor_name": {
+                  "ar": "امل محمد معجب الحامد",
+                  "en": ""
+                },
+                "section_type": {
+                  "ar": "محاضرة",
+                  "en": ""
+                },
+                "meetings": [
+                  {
+                    "day": "Sunday",
+                    "start_time": "09:00",
+                    "end_time": "09:50",
+                    "classroom": "1120 04 2 A 030"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "start_time": "09:00",
+                    "end_time": "09:50",
+                    "classroom": "1120 04 2 A 030"
+                  },
+                  {
+                    "day": "Thursday",
+                    "start_time": "09:00",
+                    "end_time": "09:50",
+                    "classroom": "1120 04 2 A 031"
+                  }
+                ]
+              },
+              "75783": {
+                "instructor_name": {
+                  "ar": "امل محمد معجب الحامد",
+                  "en": ""
+                },
+                "section_type": {
+                  "ar": "محاضرة",
+                  "en": ""
+                },
+                "meetings": [
+                  {
+                    "day": "Sunday",
+                    "start_time": "08:00",
+                    "end_time": "08:50",
+                    "classroom": ""
+                  },
+                  {
+                    "day": "Tuesday",
+                    "start_time": "08:00",
+                    "end_time": "08:50",
+                    "classroom": ""
+                  },
+                  {
+                    "day": "Thursday",
+                    "start_time": "08:00",
+                    "end_time": "08:50",
+                    "classroom": ""
+                  }
+                ]
+              }
+            }
+        }
+
+    },
+    "4K3JFOd8j5s0yQLC":{
+        "عمر-122": {
+            "course_code": {
+                "ar": "عمر-122",
+                "en": ""
+            },
+            "course_name": {
+                "ar": "الرسم الحر",
+                "en": ""
+            },
+            "class_hours": "2",
+            "gender": {
+                "ar": "ذكر",
+                "en": "Male"
+            },
+            "status": {
+                "ar": "مغلقة",
+                "en": "Closed"
+            },
+            "final_exam": {},
+            "sections": {
+                "5020": {
+                    "instructor_name": {
+                        "ar": "احمد حامد صالح الزعبي",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-031"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-031"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-031"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-031"
+                        }
+                    ]
+                },
+                "5022": {
+                    "instructor_name": {
+                        "ar": "فرحات علي نياز علي",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-031"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-031"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-031"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-031"
+                        }
+                    ]
+                },
+                "5023": {
+                    "instructor_name": {
+                        "ar": "علي عائض احمد مرزن",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-038"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-038"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-038"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-038"
+                        }
+                    ]
+                },
+                "5025": {
+                    "instructor_name": {
+                        "ar": "أحمد علي عبدالوهاب دعجم",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-027"
+                        }
+                    ]
+                },
+                "5026": {
+                    "instructor_name": {
+                        "ar": "صالح حميد جابر السلمي",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Monday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-051"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-051"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-051"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-051"
+                        }
+                    ]
+                }
+            }
+        },
+        "عمر-121": {
+            "course_code": {
+                "ar": "عمر-121",
+                "en": ""
+            },
+            "course_name": {
+                "ar": "رسومات الفكرة التصميمية",
+                "en": ""
+            },
+            "class_hours": "2",
+            "gender": {
+                "ar": "ذكر",
+                "en": "Male"
+            },
+            "status": {
+                "ar": "مفتوحة",
+                "en": "Open"
+            },
+            "final_exam": {},
+            "sections": {
+                "5067": {
+                    "instructor_name": {
+                        "ar": "وائل أحمد شعبان أبو نعمه",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-031"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-031"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-031"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-031"
+                        }
+                    ]
+                },
+                "5113": {
+                    "instructor_name": {
+                        "ar": "فرحات علي نياز علي",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-027"
+                        }
+                    ]
+                },
+                "5114": {
+                    "instructor_name": {
+                        "ar": "احمد حامد صالح الزعبي",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-027"
+                        }
+                    ]
+                },
+                "5115": {
+                    "instructor_name": {
+                        "ar": "علي عائض احمد مرزن",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-027"
+                        }
+                    ]
+                },
+                "5116": {
+                    "instructor_name": {
+                        "ar": "محمد بن جواد بن حسين الشايب",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-027"
+                        }
+                    ]
+                },
+                "5117": {
+                    "instructor_name": {
+                        "ar": "أحمد علي عبدالوهاب دعجم",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Thursday",
+                            "start_time": "12:00",
+                            "end_time": "12:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "B151-027"
+                        },
+                        {
+                            "day": "Thursday",
+                            "start_time": "15:00",
+                            "end_time": "15:50",
+                            "classroom": "B151-027"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "oo3xUiBHmsB6F8x0":{
+        "كيم-107": {
+            "course_code": {
+                "ar": "كيم-107",
+                "en": ""
+            },
+            "course_name": {
+                "ar": "كيمياء عامة",
+                "en": ""
+            },
+            "class_hours": "4",
+            "gender": {
+                "ar": "ذكر",
+                "en": "Male"
+            },
+            "status": {
+                "ar": "مغلقة",
+                "en": "Closed"
+            },
+            "final_exam": {},
+            "sections": {
+                "4481": {
+                    "instructor_name": {
+                        "ar": "عاطف محمد ابراهيم كرشاف",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "نظري",
+                        "en": "Theoretical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Sunday",
+                            "start_time": "09:30",
+                            "end_time": "10:20",
+                            "classroom": "B12-S-075"
+                        },
+                        {
+                            "day": "Sunday",
+                            "start_time": "10:30",
+                            "end_time": "10:50",
+                            "classroom": "B12-S-075"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "start_time": "09:30",
+                            "end_time": "10:20",
+                            "classroom": "B12-1-064"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "start_time": "10:30",
+                            "end_time": "10:50",
+                            "classroom": "B12-1-064"
+                        }
+                    ]
+                },
+                "4482": {
+                    "instructor_name": {
+                        "ar": "زهير خليفة بلقاسم علوي",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Monday",
+                            "start_time": "09:00",
+                            "end_time": "09:50",
+                            "classroom": "G-012"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "10:00",
+                            "end_time": "10:50",
+                            "classroom": "G-012"
+                        }
+                    ]
+                },
+                "4483": {
+                    "instructor_name": {
+                        "ar": "معتصم زكي يوسف بني فواز",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Wednesday",
+                            "start_time": "09:00",
+                            "end_time": "09:50",
+                            "classroom": "G-012"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "start_time": "10:00",
+                            "end_time": "10:50",
+                            "classroom": "G-012"
+                        }
+                    ]
+                }
+            }
+        },
+        "نجل-301": {
+            "course_code": {
+                "ar": "نجل-301",
+                "en": ""
+            },
+            "course_name": {
+                "ar": "كتابة التقارير الفنية",
+                "en": ""
+            },
+            "class_hours": "2",
+            "gender": {
+                "ar": "ذكر",
+                "en": "Male"
+            },
+            "status": {
+                "ar": "مفتوحة",
+                "en": "Open"
+            },
+            "final_exam": {},
+            "sections": {
+                "1298": {
+                    "instructor_name": {
+                        "ar": "حسن ماهل عبدالله حسن",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "نظري",
+                        "en": "Theoretical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Sunday",
+                            "start_time": "16:00",
+                            "end_time": "16:50",
+                            "classroom": "B103-008"
+                        },
+                        {
+                            "day": "Sunday",
+                            "start_time": "17:00",
+                            "end_time": "17:50",
+                            "classroom": "B103-008"
+                        }
+                    ]
+                },
+                "1299": {
+                    "instructor_name": {
+                        "ar": "محمد احمد حسن الورد",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "نظري",
+                        "en": "Theoretical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Monday",
+                            "start_time": "16:00",
+                            "end_time": "16:50",
+                            "classroom": "B103-008"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "17:00",
+                            "end_time": "17:50",
+                            "classroom": "B103-008"
+                        }
+                    ]
+                },
+                "1300": {
+                    "instructor_name": {
+                        "ar": "آصف خان منهاس",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "نظري",
+                        "en": "Theoretical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Tuesday",
+                            "start_time": "16:00",
+                            "end_time": "16:50",
+                            "classroom": "B103-009"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "start_time": "17:00",
+                            "end_time": "17:50",
+                            "classroom": "B103-009"
+                        }
+                    ]
+                },
+                "5436": {
+                    "instructor_name": {
+                        "ar": "ناصر محمود وزير شاه",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "نظري",
+                        "en": "Theoretical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Wednesday",
+                            "start_time": "16:00",
+                            "end_time": "16:50",
+                            "classroom": "ELC-1-030"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "start_time": "17:00",
+                            "end_time": "17:50",
+                            "classroom": "ELC-1-030"
+                        }
+                    ]
+                },
+                "5437": {
+                    "instructor_name": {
+                        "ar": "ناصر محمود وزير شاه",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "نظري",
+                        "en": "Theoretical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Tuesday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "ELC-1-030"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "ELC-1-030"
+                        }
+                    ]
+                },
+                "5438": {
+                    "instructor_name": {
+                        "ar": "ناصر محمود وزير شاه",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "نظري",
+                        "en": "Theoretical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Wednesday",
+                            "start_time": "13:00",
+                            "end_time": "13:50",
+                            "classroom": "ELC-1-030"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "start_time": "14:00",
+                            "end_time": "14:50",
+                            "classroom": "ELC-1-030"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "A6y9WoHHrhDNqT4Q":{
+        "كيم-107": {
+            "course_code": {
+                "ar": "كيم-107",
+                "en": ""
+            },
+            "course_name": {
+                "ar": "كيمياء عامة",
+                "en": ""
+            },
+            "class_hours": "4",
+            "gender": {
+                "ar": "ذكر",
+                "en": "Male"
+            },
+            "status": {
+                "ar": "مغلقة",
+                "en": "Closed"
+            },
+            "final_exam": {},
+            "sections": {
+                "4481": {
+                    "instructor_name": {
+                        "ar": "عاطف محمد ابراهيم كرشاف",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "نظري",
+                        "en": "Theoretical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Sunday",
+                            "start_time": "09:30",
+                            "end_time": "10:20",
+                            "classroom": "B12-S-075"
+                        },
+                        {
+                            "day": "Sunday",
+                            "start_time": "10:30",
+                            "end_time": "10:50",
+                            "classroom": "B12-S-075"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "start_time": "09:30",
+                            "end_time": "10:20",
+                            "classroom": "B12-1-064"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "start_time": "10:30",
+                            "end_time": "10:50",
+                            "classroom": "B12-1-064"
+                        }
+                    ]
+                },
+                "4482": {
+                    "instructor_name": {
+                        "ar": "زهير خليفة بلقاسم علوي",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Monday",
+                            "start_time": "09:00",
+                            "end_time": "09:50",
+                            "classroom": "G-012"
+                        },
+                        {
+                            "day": "Monday",
+                            "start_time": "10:00",
+                            "end_time": "10:50",
+                            "classroom": "G-012"
+                        }
+                    ]
+                },
+                "4483": {
+                    "instructor_name": {
+                        "ar": "معتصم زكي يوسف بني فواز",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "عملي",
+                        "en": "Practical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Wednesday",
+                            "start_time": "09:00",
+                            "end_time": "09:50",
+                            "classroom": "G-012"
+                        },
+                        {
+                            "day": "Wednesday",
+                            "start_time": "10:00",
+                            "end_time": "10:50",
+                            "classroom": "G-012"
+                        }
+                    ]
+                }
+            }
+        },
+        "ريض-119": {
+            "course_code": {
+                "ar": "ريض-119",
+                "en": ""
+            },
+            "course_name": {
+                "ar": "تفاضل وتكامل -1",
+                "en": ""
+            },
+            "class_hours": "3",
+            "gender": {
+                "ar": "ذكر",
+                "en": "Male"
+            },
+            "status": {
+                "ar": "مغلقة",
+                "en": "Closed"
+            },
+            "final_exam": {},
+            "sections": {
+                "4477": {
+                    "instructor_name": {
+                        "ar": "محمد الأمين محمد سالم بولرياح",
+                        "en": ""
+                    },
+                    "section_type": {
+                        "ar": "نظري",
+                        "en": "Theoretical"
+                    },
+                    "meetings": [
+                        {
+                            "day": "Sunday",
+                            "start_time": "08:00",
+                            "end_time": "08:50",
+                            "classroom": "B12-G-016"
+                        },
+                        {
+                            "day": "Sunday",
+                            "start_time": "09:00",
+                            "end_time": "09:20",
+                            "classroom": "B12-G-016"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "start_time": "08:00",
+                            "end_time": "08:50",
+                            "classroom": "B12-G-074"
+                        },
+                        {
+                            "day": "Tuesday",
+                            "start_time": "09:00",
+                            "end_time": "09:20",
+                            "classroom": "B12-G-074"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+
+}

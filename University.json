@@ -1,0 +1,100 @@
+{
+    "7498x4bN525ACTgVqihC": {
+        "university_id": "7498x4bN525ACTgVqihC",
+        "name_ar": "جامعة الملك خالد",
+        "name_en": "King Khalid University",
+        "region_ar": "عسير",
+        "region_en": "Asir",
+        "semester_type": "two_semesters",
+        "img": "https://storage.googleapis.com/rokam-app-5819b.appspot.com/KKU_logo.png?Expires=4855130434&GoogleAccessId=firebase-adminsdk-v7bjg%40rokam-app-5819b.iam.gserviceaccount.com&Signature=A0ORWs36DJ58EdGlCc2qywsCbLdC9baGQmTlxtfCxXmi5PItjVUm4zeYsaiB%2FkLbNIq2XW%2BA%2F4gOhk5qn2pEGfZySAWO4YvC8kaqEzLWdJL9hELxpxPmJzc2eSJ80usykOnOSnPL3BDwZfSXj5SjdVztoCJH5ISwcBlREheReB%2FECAuUFwiZeJbNRotYn0A2PaNJkovJhuLLdk1FJohFf6N5YiUbSScpimwcjDgqam%2FDw1KmdwdnLJ4QLWK%2B8m%2F%2Fj5U%2BSjNvfPqw4jRndbOpqeXB%2FpBzbEqtR5G%2FQoKL4Oz7tBkfVKcDzOB4y3j0A%2FqXmV09tnLNBSnjgCYJz%2B42bQ%3D%3D",
+        "programs": {
+            "A6y9WoHHrhDNqT4Q": {
+                "program_id": "A6y9WoHHrhDNqT4Q",
+                "name_ar": "الهندسة الكهربائية",
+                "name_en": ""
+            },
+            "oo3xUiBHmsB6F8x0": {
+                "program_id": "oo3xUiBHmsB6F8x0",
+                "name_ar": "الهندسة الصناعية",
+                "name_en": ""
+            },
+            "4K3JFOd8j5s0yQLC": {
+                "program_id": "4K3JFOd8j5s0yQLC",
+                "name_ar": "العمارة",
+                "name_en": ""
+            }
+        }
+    },
+    "Aeyw1thko4mxVKaLE25K": {
+        "university_id": "Aeyw1thko4mxVKaLE25K",
+        "name_ar": "جامعة الملك سعود",
+        "name_en": "King Saud University",
+        "region_ar": "",
+        "region_en": "",
+        "semester_type": "two_semesters",
+        "img": "https://storage.googleapis.com/rokam-app-5819b.appspot.com/KSU_logo.png?Expires=4854590460&GoogleAccessId=firebase-adminsdk-v7bjg%40rokam-app-5819b.iam.gserviceaccount.com&Signature=KmtCmqv3h%2BiuaOPnWoKZ9EYyngF0s%2BaJoDMpaYigrX%2BpxjYijhIbOT7hg8LBT8ZytNqgT8vSeAg%2F3rHf6UalRhnntnwp9Kolw0M2rYouSt9xFqURquorTDj1RjITRC%2FeiHjcPafPuBjXfvfm3x706o0G3TWPWFQPmxAQsfs2VBUh%2Fs%2Bl%2FngBv%2B9fXRFuC6MOWhn%2F04YFsiknyMjJQxPbU1FwO2%2BFyz%2FVZGCnkKzQVItAPCgRRRT3S8BhB9KaPS%2BkwHMkyhR3j8%2BmLeIWd43UQOIGewWE5TYfHOKPr%2BPWjStS%2FjLJtJgkKM9SHDFS%2F12%2FKySkogt1rka%2BHslxFvIBwQ%3D%3D",
+        "programs": {
+            "tAPVIuzvAgWQUvLi": {
+                "program_id": "tAPVIuzvAgWQUvLi",
+                "name_ar": "EEMZ-الهندسة الكهربائية التطبيقية",
+                "name_en": ""
+            },
+            "pnuFfeqcfeitvgee": {
+                "program_id": "pnuFfeqcfeitvgee",
+                "name_ar": "IMNN-المالية",
+                "name_en": ""
+            },
+            "bDVoL8kPKOltHPyJ": {
+                "program_id": "bDVoL8kPKOltHPyJ",
+                "name_ar": "IMN1-مسار المالية العام",
+                "name_en": ""
+            }
+        }
+    },
+    "bcb97ac2-6dee-4b64-b3fd-6b45809ae2f7": {
+        "name": "BMW",
+        "speed": 280,
+        "university_id": "bcb97ac2-6dee-4b64-b3fd-6b45809ae2f7"
+    },
+    "bf11bea6-4877-453a-b6a1-327b76730a1e": {
+        "university_id": "bf11bea6-4877-453a-b6a1-327b76730a1e"
+    },
+    "9f4875ca-64d8-4dc0-afcd-5faa4fc2aa62": {
+        "university_id": "9f4875ca-64d8-4dc0-afcd-5faa4fc2aa62"
+    },
+    "554a158a-1458-41d6-b812-e60fbac27a21": {
+        "name_ar": "جامعة الملك خالد",
+        "name_en": "King Khalid University",
+        "region_ar": "عسير",
+        "region_en": "Asir",
+        "semester_type": "two_semesters",
+        "img": "https://storage.googleapis.com/rokam-app-5819b.appspot.com/KKU_logo.png?Expires=4855130434&GoogleAccessId=firebase-adminsdk-v7bjg%40rokam-app-5819b.iam.gserviceaccount.com&Signature=A0ORWs36DJ58EdGlCc2qywsCbLdC9baGQmTlxtfCxXmi5PItjVUm4zeYsaiB%2FkLbNIq2XW%2BA%2F4gOhk5qn2pEGfZySAWO4YvC8kaqEzLWdJL9hELxpxPmJzc2eSJ80usykOnOSnPL3BDwZfSXj5SjdVztoCJH5ISwcBlREheReB%2FECAuUFwiZeJbNRotYn0A2PaNJkovJhuLLdk1FJohFf6N5YiUbSScpimwcjDgqam%2FDw1KmdwdnLJ4QLWK%2B8m%2F%2Fj5U%2BSjNvfPqw4jRndbOpqeXB%2FpBzbEqtR5G%2FQoKL4Oz7tBkfVKcDzOB4y3j0A%2FqXmV09tnLNBSnjgCYJz%2B42bQ%3D%3D",
+        "programs": {},
+        "university_id": "554a158a-1458-41d6-b812-e60fbac27a21"
+    },
+    "6beddf6a-ae70-41fd-8243-b0279c240d56": {
+        "name_ar": "جامعة الملك خالد",
+        "name_en": "King Khalid University",
+        "region_ar": "عسير",
+        "region_en": "Asir",
+        "semester_type": "two_semesters",
+        "img": "https://storage.googleapis.com/rokam-app-5819b.appspot.com/KKU_logo.png?Expires=4855130434&GoogleAccessId=firebase-adminsdk-v7bjg%40rokam-app-5819b.iam.gserviceaccount.com&Signature=A0ORWs36DJ58EdGlCc2qywsCbLdC9baGQmTlxtfCxXmi5PItjVUm4zeYsaiB%2FkLbNIq2XW%2BA%2F4gOhk5qn2pEGfZySAWO4YvC8kaqEzLWdJL9hELxpxPmJzc2eSJ80usykOnOSnPL3BDwZfSXj5SjdVztoCJH5ISwcBlREheReB%2FECAuUFwiZeJbNRotYn0A2PaNJkovJhuLLdk1FJohFf6N5YiUbSScpimwcjDgqam%2FDw1KmdwdnLJ4QLWK%2B8m%2F%2Fj5U%2BSjNvfPqw4jRndbOpqeXB%2FpBzbEqtR5G%2FQoKL4Oz7tBkfVKcDzOB4y3j0A%2FqXmV09tnLNBSnjgCYJz%2B42bQ%3D%3D",
+        "programs": {},
+        "university_id": "6beddf6a-ae70-41fd-8243-b0279c240d56"
+    },
+    "4850c21e-b5d2-4460-a42e-91bbf74be7c2": {
+        "university_id": "4850c21e-b5d2-4460-a42e-91bbf74be7c2"
+    },
+    "5c383755-b996-4364-b1a0-fe79b01d5691": {
+        "university_id": "5c383755-b996-4364-b1a0-fe79b01d5691"
+    },
+    "c5bc2ac5-cce7-4fb8-bd4f-7a7594f6a94b": {
+        "university_id": "c5bc2ac5-cce7-4fb8-bd4f-7a7594f6a94b",
+        "name_ar": "جامعة الملك فهد",
+        "name_en": "King fahad University"
+    },
+    "af5610d8-d477-46b7-a6dd-e095f4c4440e": {
+        "name": "Add your name in the body",
+        "university_id": "af5610d8-d477-46b7-a6dd-e095f4c4440e"
+    }
+}
